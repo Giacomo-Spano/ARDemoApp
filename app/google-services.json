@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628494445868",
+    "project_id": "cloudanchor-88707",
+    "storage_bucket": "cloudanchor-88707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628494445868:android:c575cd277405807fffd089",
+        "android_client_info": {
+          "package_name": "com.google.ar.core.examples.java.cloudanchor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628494445868-oehr5th358sa61b97f367ktoaatr27fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgsie0ovvDWw5MnVZSlGF_FgK9wjl8Su0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628494445868-oehr5th358sa61b97f367ktoaatr27fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
